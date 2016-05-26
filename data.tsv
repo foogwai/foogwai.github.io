@@ -1,169 +1,169 @@
 day	hour	value	album	artist
-1	1	16	"Acid Jazz"	"Kobe"	
-1	2	20	"Acid Jazz"	"Kobe"	
-1	3	0	"Acid Jazz"	"Kobe"	
-1	4	0	"Acid Jazz"	"Kobe"	
-1	5	0
-1	6	2
-1	7	0
-1	8	9
-1	9	25
-1	10	49
-1	11	57
-1	12	61
-1	13	37
-1	14	66
-1	15	70
-1	16	55
-1	17	51
-1	18	55
-1	19	17
-1	20	20
-1	21	9
-1	22	4
-1	23	0
-1	24	12
-2	1	6
-2	2	2
-2	3	0
-2	4	0
-2	5	0
-2	6	2
-2	7	4
-2	8	11
-2	9	28
-2	10	49
-2	11	51
-2	12	47
-2	13	38
-2	14	65
-2	15	60
-2	16	50
-2	17	65
-2	18	50
-2	19	22
-2	20	11
-2	21	12
-2	22	9
-2	23	0
-2	24	13
-3	1	5
-3	2	8
-3	3	8
-3	4	0
-3	5	0
-3	6	2
-3	7	5
-3	8	12
-3	9	34
-3	10	43
-3	11	54
-3	12	44
-3	13	40
-3	14	48
-3	15	54
-3	16	59
-3	17	60
-3	18	51
-3	19	21
-3	20	16
-3	21	9
-3	22	5
-3	23	4
-3	24	7
-4	1	0
-4	2	0
-4	3	0
-4	4	0
-4	5	0
-4	6	2
-4	7	4
-4	8	13
-4	9	26
-4	10	58
-4	11	61
-4	12	59
-4	13	53
-4	14	54
-4	15	64
-4	16	55
-4	17	52
-4	18	53
-4	19	18
-4	20	3
-4	21	9
-4	22	12
-4	23	2
-4	24	8
-5	1	2
-5	2	0
-5	3	8
-5	4	2
-5	5	0
-5	6	2
-5	7	4
-5	8	14
-5	9	31
-5	10	48
-5	11	46
-5	12	50
-5	13	66
-5	14	54
-5	15	56
-5	16	67
-5	17	54
-5	18	23
-5	19	14
-5	20	6
-5	21	8
-5	22	7
-5	23	0
-5	24	8
-6	1	2
-6	2	0
-6	3	2
-6	4	0
-6	5	0
-6	6	0
-6	7	4
-6	8	8
-6	9	8
-6	10	6
-6	11	14
-6	12	12
-6	13	9
-6	14	14
-6	15	0
-6	16	4
-6	17	7
-6	18	6
-6	19	0
-6	20	0
-6	21	0
-6	22	0
-6	23	0
-6	24	0
-7	1	7
-7	2	6
-7	3	0
-7	4	0
-7	5	0
-7	6	0
-7	7	0
-7	8	0
-7	9	0
-7	10	0
-7	11	2
-7	12	2
-7	13	5
-7	14	6
-7	15	0
-7	16	4
-7	17	0
-7	18	2
-7	19	10
-7	20	7
-7	21	0
-7	22	19
-7	23	9
-7	24	4
+1	1	16	Rock Vol 1	Ralph Schuckett	
+1	2	20	Rock Vol 1, Latin Vol 1	Stephanie Bennett, John McCurry, Irene Merring	
+1	3	0	 	 	
+1	4	0	 	 	
+1	5	0	 	 	
+1	6	2	Jazz Vol 1	DavidP. Wolfert, Seth Schere, Randy Klein, Joi Veer	
+1	7	0	 	 	
+1	8	9	Film Tv Vol 1, Jazz Vol 1	Michael Genato, Ben Fisseler, Kevin Packard, SandroG. Masoni, Laurent Medelgi, Jose Arias	
+1	9	25	Electronics Vol1	John Griggs, DarrenMarc Levene, Leroy Bocchieri, Harlan Glotzer, MichaelJon Goodrich	
+1	10	49	Urban Vol 1, Classical Vol 1, Electronics Vol1	Philipp Peltz, Nathan Reinauer	
+1	11	57	Jazz Vol 1, Blues Vol 1	Adonis Tsilimparis, Hugh Pool, Darko Saric, Ed Kessel, David Schoenwetter, Rick Horvath	
+1	12	61	Rock Vol 1, Latin Vol 1, Pop Vol 1	Jessica Stamper(DreamCircle)	
+1	13	37	Pop Vol 1	Felix Miklik, Katy Walker(DreamCircle)	
+1	14	66	Country Fold Vol 1	Erika Buestami, Jason Livesay	
+1	15	70	Pop Vol 1	Brendan Arnold(AudioSpaghetti), Felix Thoma, Christian Montalbano	
+1	16	55	Jazz Vol 1, Blues Vol 1	Andrew Shapiro	
+1	17	51	Blues Vol 1, Jazz Vol 1, Country Fold Vol 1, Latin Vol 1	Joi Veer, Patrick Slattery, YanceyDrew Lambert, Ryan Woollerton	
+1	18	55	Blues Vol 1, Classical Vol 1	Ben Zwerin(DreamCircle), John Loeffler, Greg Hosharian	
+1	19	17	Urban Vol 1, Electronics Vol1, Pop Vol 1	Rick DiFonzo, Ruth Polcari, Gabrielle Sterbenz, Pamela Werth	
+1	20	20	Latin Vol 1	Benjamin Riordan, Joshua Guthals	
+1	21	9	Jazz Vol 1, Rock Vol 1, Classical Vol 1	Janet Cucinotti, Brian Bergeron	
+1	22	4	Pop Vol 1	Jerome Langlois, Jim Klein, Neil Jason	
+1	23	0	 	 	
+1	24	12	Classical Vol 1, Country Fold Vol 1, Blues Vol 1	Debbie Deane, Michael Levine	
+2	1	6	Jazz Vol 1, Film Tv Vol 1	Tim Ziesmer, Ezekiel Honig	
+2	2	2	Jazz Vol 1, Blues Vol 1	Renzo Miralles, Darko Saric, KarenLee Larson(Derby), Ernie Lake	
+2	3	0	 	 	
+2	4	0	 	 	
+2	5	0	 	 	
+2	6	2	Blues Vol 1	Michael Nova, Harold Taylor, Brian Casel, Aaron Saloman, Len Handler, Hal Goldstein	
+2	7	4	Urban Vol 1	Patrick Beyer, Chris Smith, Jose Arias, Mike Newport, Aaron Nagler	
+2	8	11	Electronics Vol1, Classical Vol 1, Urban Vol 1	Nathan Reinauer, John McCurry, Katrina Russ, Zilo Groove, Joel Mejia(DreamCircle), Eric Bolvin	
+2	9	28	Latin Vol 1	Leroy Bocchieri, Yutaka Uchida, Josh Stern, Matthew Hillyer, KennethW. Weydener, Greg Hosharian	
+2	10	49	Film Tv Vol 1, Classical Vol 1, Latin Vol 1	Michael Nova, Rosalind Richards, Robert Mann, Joel Mejia(DreamCircle)	
+2	11	51	Rock Vol 1	Avishay Sapir, Robert Mann, Michael McLaughlin, Matt Campana, Jared Jones, DarrenMarc Levene	
+2	12	47	Classical Vol 1	Pamela Werth, Curtis Witters, LouiseCarmen Cook, Matthew Hillyer, Rick DiFonzo, Pablo Schmitt	
+2	13	38	Blues Vol 1, Classical Vol 1, Pop Vol 1, Rock Vol 1, Jazz Vol 1	Mark Cally, Jared Jones	
+2	14	65	Film Tv Vol 1, Pop Vol 1	Christopher Lentine, SusanF. Schnitzer, YanceyDrew Lambert, Jamie Sparks, Nunzio Signore, Diederik Baan	
+2	15	60	Urban Vol 1, Blues Vol 1	Mike Genato(DreamCircle), Steve Rabeler	
+2	16	50	Latin Vol 1, Urban Vol 1, Classical Vol 1	JonathanMartin Gordon	
+2	17	65	Urban Vol 1, Jazz Vol 1, Blues Vol 1	Ken Wallace, StephenAndrew Love, Simon Brewer, John Snow, James Forrest	
+2	18	50	Blues Vol 1, Country Fold Vol 1	Mark Allaway, Dean Barrett, Hugh Pool, William Naughton	
+2	19	22	Urban Vol 1	Michael D'Agostino, Jared Jones, Andy Mark, Barry Cahill, Steve Rabeler, Kelly Weeks	
+2	20	11	Urban Vol 1	Nicholas Saya, Brad Ross, Demetri Joannou(BlueMoonHarem), JamesR. Wilson, LucasCantor ListenHearNow	
+2	21	12	Rock Vol 1, Urban Vol 1	Robert Firpo-Cappiello, Shane Henry	
+2	22	9	Jazz Vol 1	ErinLee Kelly, Debbie Deane, Timothy Young, Aaron Nagler	
+2	23	0	 	 	
+2	24	13	Electronics Vol1, Country Fold Vol 1, Latin Vol 1, Pop Vol 1	Richard Leissler, Manuel Zapien-Gamez, Felix Miklik	
+3	1	5	Blues Vol 1	Michael Trapp	
+3	2	8	Classical Vol 1	Victor Castillo, Lisa Jaeggi, Simon Power	
+3	3	8	Jazz Vol 1, Country Fold Vol 1, Rock Vol 1	Scott Jones, Akihiro Yamamoto, Stuart Burrows, BenjaminC. Gorske	
+3	4	0	 	 	
+3	5	0	 	 	
+3	6	2	Pop Vol 1, Electronics Vol1	Curtis Witters, Donell Johnson, Kyle Kee, Kanako Omae, JonGilbert Leavitt, Benjamin Riordan	
+3	7	5	Latin Vol 1	PhillipM. Bright, Glen Cavanagh	
+3	8	12	Jazz Vol 1, Blues Vol 1	Demetri Joannou(BlueMoonHarem), Ryan Braman(SweetJaponic), Scott Jones, Michael Genato, Michael Hayes	
+3	9	34	Latin Vol 1, Urban Vol 1, Pop Vol 1, Film Tv Vol 1	Damon Bray, Lou Cortelezzi, Aaron Saloman, Neil Cross, John Griggs	
+3	10	43	Pop Vol 1	JonathanD. Buchsbaum(BlueMoonHarem), Chris Murrot, Paul Russell, Christopher Toland, Mark Allaway, AaronM. Peterson(JoelChassan)	
+3	11	54	Urban Vol 1	Ben Fisseler, Brian Casel, Eliot Pister, Mark Breeding	
+3	12	44	Rock Vol 1, Jazz Vol 1, Urban Vol 1	Debra Davis, Wade Tonken, Jose Arias, Christian Castle	
+3	13	40	Latin Vol 1, Pop Vol 1	Adonis Tsilimparis	
+3	14	48	Urban Vol 1	Walter Elson, ErinLee Kelly, JamesR. Wilson	
+3	15	54	Country Fold Vol 1, Classical Vol 1, Jazz Vol 1	Donell Johnson	
+3	16	59	Blues Vol 1, Urban Vol 1	Oren Neiman, Kelley Kelley, Robert Mann, Daniel Basford, Curtis Witters	
+3	17	60	Country Fold Vol 1	John Loeffler, Michael Logozar, Dan Pasternak, Robert Firpo-Cappiello, Michael Levine	
+3	18	51	Country Fold Vol 1, Classical Vol 1, Blues Vol 1, Film Tv Vol 1	Gary Arnold, Greg Colacino, Adrienne Woods	
+3	19	21	Blues Vol 1, Jazz Vol 1, Electronics Vol1, Urban Vol 1	Walter Elson	
+3	20	16	Electronics Vol1	LouiseAnnette Smart, Patrick Beyer, Joel Chassan	
+3	21	9	Urban Vol 1, Jazz Vol 1	Drew Davidson	
+3	22	5	Latin Vol 1	Anthony Morra	
+3	23	4	Rock Vol 1, Urban Vol 1	Jose Rosario, Anthony Morra	
+3	24	7	Film Tv Vol 1, Pop Vol 1	Jose Arias, Simon Brewer, Harlan Glotzer, Angelo Carter, Michael Churton	
+4	1	0	 	 	
+4	2	0	 	 	
+4	3	0	 	 	
+4	4	0	 	 	
+4	5	0	 	 	
+4	6	2	Classical Vol 1, Film Tv Vol 1	Josquin dePres, Ryan Leach	
+4	7	4	Blues Vol 1, Electronics Vol1, Classical Vol 1, Pop Vol 1	DarrenMarc Levene, Paul Madden, Lawrence Blatt, William Newman, Tim Kvasnosky, Andersen Viana	
+4	8	13	Rock Vol 1, Film Tv Vol 1	Aaron Nagler, Walter Elson	
+4	9	26	Rock Vol 1	Steve Glotzer, John Snow, Shaun Friedman	
+4	10	58	Classical Vol 1	Adam Haggar	
+4	11	61	Blues Vol 1, Pop Vol 1	John Rickey, Christian Montalbano, Raymond Rodriguez	
+4	12	59	Jazz Vol 1, Pop Vol 1, Classical Vol 1, Country Fold Vol 1	Mark Cally, Joe Barretta, Steven Benson(Derby), Irene Merring	
+4	13	53	Rock Vol 1, Jazz Vol 1, Film Tv Vol 1, Electronics Vol1	John Loeffler, Wesley Hudson, Joellen Williamson, Ron Mancuso, Greg Colacino	
+4	14	54	Blues Vol 1, Rock Vol 1	Rick Horvath, Michele Vanni, Wesley Hutchinson, Michael D'Agostino	
+4	15	64	Jazz Vol 1	Daniel Basford, Ged Flood, Robert Myers(JIVA), Robin Stine, Josquin dePres	
+4	16	55	Country Fold Vol 1	Nick Behnan(JIVA), TedAnthony(Tony) Meade	
+4	17	52	Country Fold Vol 1, Rock Vol 1, Latin Vol 1	Robert Davidson, RyanE. Newman, Michael Genato, JonGilbert Leavitt, Dion McKenzie	
+4	18	53	Electronics Vol1, Latin Vol 1	Michael Turner(JIVA)	
+4	19	18	Classical Vol 1	Peter Calandra, Livio Guerra	
+4	20	3	Rock Vol 1	Michael McLaughlin, Marci Bernstein	
+4	21	9	Rock Vol 1	Michelangelo Sosnowitz, Konstantinos Panagiotidis, Rosalind Richards, Aaron Henry	
+4	22	12	Rock Vol 1	Steven Benson(Derby), Ona Diaz-Santin(Derby), Eliot Pister, Daniel Infuso, Rosalind Richards	
+4	23	2	Rock Vol 1, Classical Vol 1	Kyle Kee, Greg Hosharian, PaulK. Determan, Lucius Dennis, John Maycraft, Lloyd Landesman	
+4	24	8	Electronics Vol1, Blues Vol 1	DanielB. Craig, Zilo Groove, Pierre Langer, Christopher Harvey, Christian Castle, DennisT. Godshalk	
+5	1	2	Classical Vol 1	Dorian Childs, Peter Calandra, Ben Zwerin(DreamCircle), Fred(FreddyMonday) Horvath	
+5	2	0	 	 	
+5	3	8	Jazz Vol 1	J.D. Feighner, Kathleen Walker, Denise Barbarita, Oren Neiman, Christopher Holland, Len Handler	
+5	4	2	Electronics Vol1, Jazz Vol 1	Delene St.Clair, Logan Tracey, Debra Davis, StephenP. Nick, RudyH. Renshof	
+5	5	0	 	 	
+5	6	2	Pop Vol 1	JamesR. Wilson, Manuel Zapien-Gamez, Robert Firpo-Cappiello, Rocio Gomez, Katy Walker(DreamCircle)	
+5	7	4	Blues Vol 1, Urban Vol 1	Adam Haggar	
+5	8	14	Country Fold Vol 1, Jazz Vol 1, Classical Vol 1	Mike Genato(DreamCircle), Anthony Morra, Brendan Arnold(AudioSpaghetti), Steven Becket, Geoff Harvey, Frank FussaJr.(MorningFuzz)	
+5	9	31	Electronics Vol1, Jazz Vol 1, Film Tv Vol 1	Todd Gauthreaux, Nunzio Signore, Jeff Curry, Alena Liakh-Tarasava, Steve Rabeler	
+5	10	48	Classical Vol 1	StephenP. Nick, Alan Marchand, Nicholas Saya	
+5	11	46	Classical Vol 1	AdamM. Greenberg(AdamMichaels), Jordan Carp, Stuart Burrows, Michael Izzo, Dimitrios Hatzisavas	
+5	12	50	Film Tv Vol 1, Latin Vol 1, Pop Vol 1	Goffredo Orlandi, S.Miria Jo, Kanako Omae, Jamie Sparks, Tony Hooper, Shane Henry	
+5	13	66	Film Tv Vol 1	AaronM. Peterson(JoelChassan), Steve Rabeler, ErinLee Kelly, Rocio Gomez	
+5	14	54	Pop Vol 1	Michael McLaughlin, Mark Cally, Lisa Jaeggi, Ben Kopec, Fred Garantabee, Ed Kessel	
+5	15	56	Urban Vol 1, Latin Vol 1, Classical Vol 1	Robert Myers(JIVA), Michael Whalen, Warren Chadwick, AlexAdmiral Collier, Michael Hayes, LouiseAnnette Smart	
+5	16	67	Pop Vol 1	ColinStarbuck O'Dwyer, Eric Bolvin, T'Darrio Hamilton, John Foltz, Pierre Langer, Karl Anthony	
+5	17	54	Pop Vol 1, Classical Vol 1, Rock Vol 1	Rick Horvath, John Foltz, Hugh Pool	
+5	18	23	Pop Vol 1	Brennan Johnson, Ronald Gamache	
+5	19	14	Urban Vol 1, Classical Vol 1	James Forrest, Steve Augello, Jamie Sparks	
+5	20	6	Latin Vol 1, Pop Vol 1, Jazz Vol 1	Michael Churton, BenjaminC. Gorske, Raymond Rodriguez, John Maycraft	
+5	21	8	Electronics Vol1	StephenAndrew Love, Matthew Hillyer, Jared Jones	
+5	22	7	Latin Vol 1, Film Tv Vol 1, Jazz Vol 1, Country Fold Vol 1	John Loeffler, StephenAndrew Love, Janet Cucinotti	
+5	23	0	 	 	
+5	24	8	Classical Vol 1	Panos Kappos	
+6	1	2	Urban Vol 1	Ed Kessel	
+6	2	0	 	 	
+6	3	2	Latin Vol 1	Paul Madden, Darnell Gibson, Alexis Burgess	
+6	4	0	 	 	
+6	5	0	 	 	
+6	6	0	 	 	
+6	7	4	Rock Vol 1	Ian Lloyd, Donell Johnson, Aaron Nagler, Jean-Marc Boiteux, Neil Jason, Maxwell Waker	
+6	8	8	Latin Vol 1	Brian Bergeron	
+6	9	8	Latin Vol 1	Diederik Baan, Brad Ross, Brian Hines	
+6	10	6	Jazz Vol 1, Country Fold Vol 1	John Snow	
+6	11	14	Pop Vol 1, Blues Vol 1	StephenAndrew Love, Jose Arias, John Rickey, Brian Wayy	
+6	12	12	Blues Vol 1	Jose Arias, Grady Walker, Chris Truitt, Jenn Adams	
+6	13	9	Electronics Vol1	RolandT. Rudzitis, Ian Lloyd, Livio Guerra	
+6	14	14	Pop Vol 1	Michele Vanni	
+6	15	0	 	 	
+6	16	4	Electronics Vol1, Jazz Vol 1	Debra Davis, Jared Jones, John Rao, Steven Bradshaw	
+6	17	7	Urban Vol 1, Pop Vol 1	Simon Brewer, RobertJ. Morales(DJRobDeniro), Dean Barrett	
+6	18	6	Film Tv Vol 1, Urban Vol 1, Rock Vol 1, Jazz Vol 1	Barry Cahill, Omari(Blee) Riley, Hugh Pool, Michael McLaughlin	
+6	19	0	 	 	
+6	20	0	 	 	
+6	21	0	 	 	
+6	22	0	 	 	
+6	23	0	 	 	
+6	24	0	 	 	
+7	1	7	Pop Vol 1, Urban Vol 1, Latin Vol 1	Pierre Langer	
+7	2	6	Country Fold Vol 1, Film Tv Vol 1	Darnell Gibson, Kevin Bryce, Chris Smith	
+7	3	0	 	 	
+7	4	0	 	 	
+7	5	0	 	 	
+7	6	0	 	 	
+7	7	0	 	 	
+7	8	0	 	 	
+7	9	0	 	 	
+7	10	0	 	 	
+7	11	2	Country Fold Vol 1	Eliot Pister, Ben Zwerin(DreamCircle), Rick Balentine	
+7	12	2	Classical Vol 1	Konstantinos Panagiotidis, Ben Fisseler, Randy Klein	
+7	13	5	Latin Vol 1	Lawrence Blatt, Lucius Dennis	
+7	14	6	Urban Vol 1	Stuart Kollmorgen, Nathan Reinauer, TedAnthony(Tony) Meade, Tim Kvasnosky, Jeff Curry	
+7	15	0	 	 	
+7	16	4	Latin Vol 1, Jazz Vol 1	RudyH. Renshof, Fabio D'Andrea, Panos Kappos, Ralph Schuckett, Jamie Sparks, George Gregory(DreamCircle)	
+7	17	0	 	 	
+7	18	2	Urban Vol 1, Blues Vol 1	David Flavin, DavidP. Wolfert, Mark Breeding, Jordan Allen, Eric Roberts	
+7	19	10	Country Fold Vol 1, Urban Vol 1, Rock Vol 1	Scott Jones	
+7	20	7	Classical Vol 1, Jazz Vol 1, Electronics Vol1, Urban Vol 1	Russell Constantine, Ged Flood, Jim McGregor	
+7	21	0	 	 	
+7	22	19	Urban Vol 1, Latin Vol 1, Classical Vol 1	Joel Stein, Greg Colacino, EIEGPublishing KeingzRansom, JonathanMartin Gordon, Kevin Brennan	
+7	23	9	Film Tv Vol 1, Rock Vol 1	Jim McGregor, Rick Balentine, JamesW. Chappell, Laura Ault, Cordell Epps, Rocio Gomez	
+7	24	4	Blues Vol 1	Robert Mann	

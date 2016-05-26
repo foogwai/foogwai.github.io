@@ -69,7 +69,7 @@
     <script src="http://d3js.org/d3.v3.js"></script>
   </head>
   <body>
-	<h2>Freeplay Musci downloads report</h2>
+	<h2>Freeplay Music downloads report</h2>
     <div id="chart"></div>
 	<div id="tooltip" class="hidden">
 		<p><span id="value"></p>
@@ -152,30 +152,16 @@
           cards.select("title").text(function(d) { return d.value; });
 		  
 		  cards.on("mouseover", function(d){
-			  window.console.log(d);
               d3.select(this).classed("cell-hover",true);
-//Update the tooltip position and value
+			  //Update the tooltip position and value
                d3.select("#tooltip")
                  .style("left", (d3.event.pageX+10) + "px")
                  .style("top", (d3.event.pageY-10) + "px")
                  .select("#value");
  				//Show the tooltip
-				 /*
-              if (d.movie.length==0 && d.tv.length==0 && d.people.length==0) {
-                 d3.select("#tooltip").classed("hidden", true);
-              } 
-              else {
-                
-                if (d.movie.length!=0 && d.tv.length==0 && d.people.length==0){
-                d3.select("#tooltip").classed("hidden", false)
-                  
-                  .html("<strong>movie:</strong> <span style='color:#2ECC71'>" +d.movie+ "</span>");
-                }
-                 
-             
-              }*/
-				 d3.select("#tooltip").classed("hidden", false).html("<strong>Album: </strong> <span style='color:#2ECC71'>" +d.album+ "</span>  <br> <strong> Artist: </strong> <span style='color:#F1C40F'>" +d.artist+ 
-				 "<br/><br/><strong>Downloads: </strong>"+d.value+"</span>");
+
+				 d3.select("#tooltip").classed("hidden", false).html("<strong>Album: </strong> <span style='color:#2ECC71'>" +d.album+ "</span>  <br> <strong> Artist: </strong> <span style='color:#F1C40F'>" +d.artist+"</span>"+
+				 "<br/><br/><strong>Downloads: </strong> <span style='color:red'>"+d.value+"</span>");
 
 		  });
           
